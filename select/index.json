@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "天才",
+  "base_artist": "奏音69",
+  "createdAt": "2026-03-11T04:18:58.049467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天才",
+      "artist": "syrup16g",
+      "has_synced": true,
+      "path": "select/01_天才_syrup16g.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天才",
+      "artist": "奏音69",
+      "has_synced": false,
+      "path": "select/pl_01_天才_奏音69.txt"
+    }
+  ]
+}
